@@ -275,10 +275,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Redis Cloud - Free Trial](https://redis.io/try-free)
 - [Redis Vector Library (RedisVL)](https://github.com/redis/redis-vl-python)
 - [RedisVL Semantic Router](https://docs.redis.com/latest/redisvl/user_guide/semantic_router/)
-- [RedisVL LLM Semantic Cache](https://docs.redis.com/cccccbkvjkglbcfjfneeccrnllcdtkvbfelefbererkv
-cccccbkvjkglkcrnlctfbkkdhefnvkhkblvvibehtbvj
-cccccbkvjkglbbjkbtvthntujgkrnubbjlhivrvckfjl
-latest/redisvl/user_guide/llmcache/)
+- [RedisVL LLM Semantic Cache](https://docs.redis.com/latest/redisvl/user_guide/llmcache/)
 - [RediSearch Documentation](https://redis.io/docs/stack/search/)
 - [RIOT - Redis Input/Output Tools](https://github.com/redis/riot)
 
