@@ -156,8 +156,8 @@ git clone <repo-url>
 cd movie-recommender-workshop-starter
 
 # Create .env file
-echo "REDIS_URL=redis://default:YOUR_PASSWORD@YOUR_ENDPOINT:PORT" > .env
-echo "OPENAI_API_KEY=your_key_here" >> .env
+echo "REDIS_URL=" > .env
+echo "OPENAI_API_KEY=" >> .env
 ```
 
 ### 3. Run Locally (Recommended)
@@ -275,7 +275,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Redis Cloud - Free Trial](https://redis.io/try-free)
 - [Redis Vector Library (RedisVL)](https://github.com/redis/redis-vl-python)
 - [RedisVL Semantic Router](https://docs.redis.com/latest/redisvl/user_guide/semantic_router/)
-- [RedisVL LLM Semantic Cache](https://docs.redis.com/latest/redisvl/user_guide/llmcache/)
+- [RedisVL LLM Semantic Cache](https://docs.redis.com/cccccbkvjkglbcfjfneeccrnllcdtkvbfelefbererkv
+cccccbkvjkglkcrnlctfbkkdhefnvkhkblvvibehtbvj
+cccccbkvjkglbbjkbtvthntujgkrnubbjlhivrvckfjl
+latest/redisvl/user_guide/llmcache/)
 - [RediSearch Documentation](https://redis.io/docs/stack/search/)
 - [RIOT - Redis Input/Output Tools](https://github.com/redis/riot)
 
