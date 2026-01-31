@@ -1,0 +1,212 @@
+[
+    {
+        "id": "1",
+        "title": "RRR",
+        "genre": "action",
+        "rating": 8,
+        "description": "A tale of two legendary revolutionaries and their journey far away from home. Before they began fighting for their country, they fought for each other."
+    },
+    {
+        "id": "2",
+        "title": "Pathaan",
+        "genre": "action",
+        "rating": 7,
+        "description": "An Indian spy takes on the leader of a group of mercenaries who have nefarious plans to target his homeland."
+    },
+    {
+        "id": "3",
+        "title": "KGF Chapter 2",
+        "genre": "action",
+        "rating": 8,
+        "description": "Rocky takes control of the Kolar Gold Fields and must face new challenges from enemies both within and outside his domain."
+    },
+    {
+        "id": "4",
+        "title": "Jawan",
+        "genre": "action",
+        "rating": 7,
+        "description": "A prison warden recruits inmates to commit outrageous crimes that shed light on corruption and injustice in Indian society."
+    },
+    {
+        "id": "5",
+        "title": "Pushpa: The Rise",
+        "genre": "action",
+        "rating": 8,
+        "description": "A laborer rises through the ranks of a red sandalwood smuggling syndicate, facing danger and betrayal at every turn."
+    },
+    {
+        "id": "6",
+        "title": "War",
+        "genre": "action",
+        "rating": 7,
+        "description": "An Indian soldier is assigned to eliminate his mentor, who has gone rogue, leading to a deadly game of cat and mouse."
+    },
+    {
+        "id": "7",
+        "title": "Tiger Zinda Hai",
+        "genre": "action",
+        "rating": 7,
+        "description": "Indian and Pakistani special agents join forces to rescue nurses held hostage by a ruthless terrorist organization in Iraq."
+    },
+    {
+        "id": "8",
+        "title": "Dhoom 3",
+        "genre": "action",
+        "rating": 6,
+        "description": "A circus performer turned thief seeks revenge against a bank that destroyed his father's life, facing off against elite cops."
+    },
+    {
+        "id": "9",
+        "title": "Singham",
+        "genre": "action",
+        "rating": 7,
+        "description": "An honest police officer takes on a powerful gangster who has corrupted the entire system, fighting for justice."
+    },
+    {
+        "id": "10",
+        "title": "Baahubali 2: The Conclusion",
+        "genre": "action",
+        "rating": 8,
+        "description": "When Shiva learns about his heritage, he begins to look for answers about his father Amarendra Baahubali's life and death."
+    },
+    {
+        "id": "11",
+        "title": "3 Idiots",
+        "genre": "comedy",
+        "rating": 9,
+        "description": "Two friends embark on a quest for a lost buddy. On this journey, they rediscover their college days and the lessons their friend taught them."
+    },
+    {
+        "id": "12",
+        "title": "PK",
+        "genre": "comedy",
+        "rating": 8,
+        "description": "An alien on Earth loses the remote to his spaceship and must navigate the complexities of religion and society to find it."
+    },
+    {
+        "id": "13",
+        "title": "Hera Pheri",
+        "genre": "comedy",
+        "rating": 8,
+        "description": "Three unemployed men try various schemes to make money, leading to hilarious misadventures when they receive a ransom call by mistake."
+    },
+    {
+        "id": "14",
+        "title": "Golmaal: Fun Unlimited",
+        "genre": "comedy",
+        "rating": 7,
+        "description": "Four mischievous friends hatch a plan to stay in the house of a blind couple, leading to chaotic and funny situations."
+    },
+    {
+        "id": "15",
+        "title": "Dhamaal",
+        "genre": "comedy",
+        "rating": 7,
+        "description": "Four friends learn about a treasure hidden in Goa and race against each other to find it first, causing hilarious mayhem."
+    },
+    {
+        "id": "16",
+        "title": "Stree",
+        "genre": "comedy",
+        "rating": 8,
+        "description": "A town is haunted by a female ghost who abducts men at night. A young tailor must find a way to save his friends."
+    },
+    {
+        "id": "17",
+        "title": "Chhichhore",
+        "genre": "comedy",
+        "rating": 8,
+        "description": "A father narrates his college friendship story to his son, teaching him that failure is not the end of the world."
+    },
+    {
+        "id": "18",
+        "title": "Munna Bhai M.B.B.S.",
+        "genre": "comedy",
+        "rating": 8,
+        "description": "A gangster enrolls in medical college to please his father, spreading joy and changing lives with his unique methods."
+    },
+    {
+        "id": "19",
+        "title": "Bhool Bhulaiyaa",
+        "genre": "comedy",
+        "rating": 7,
+        "description": "A psychiatrist investigates a case of apparent supernatural possession in a royal palace with a dark history."
+    },
+    {
+        "id": "20",
+        "title": "Zindagi Na Milegi Dobara",
+        "genre": "comedy",
+        "rating": 8,
+        "description": "Three friends take a bachelor trip to Spain, confronting their fears and rediscovering the joy of living life to the fullest."
+    },
+    {
+        "id": "21",
+        "title": "Kabir Singh",
+        "genre": "romance",
+        "rating": 7,
+        "description": "A brilliant surgeon with anger issues spirals into self-destruction when he cannot marry the woman he loves."
+    },
+    {
+        "id": "22",
+        "title": "Yeh Jawaani Hai Deewani",
+        "genre": "romance",
+        "rating": 8,
+        "description": "Friends reunite after years apart, and two of them realize their feelings for each other have never faded."
+    },
+    {
+        "id": "23",
+        "title": "Jab We Met",
+        "genre": "romance",
+        "rating": 8,
+        "description": "A depressed businessman meets a vivacious girl on a train journey who changes his outlook on life and love."
+    },
+    {
+        "id": "24",
+        "title": "Kal Ho Naa Ho",
+        "genre": "romance",
+        "rating": 8,
+        "description": "An optimistic young man brings joy to a pessimistic girl's life while hiding a heartbreaking secret about his health."
+    },
+    {
+        "id": "25",
+        "title": "Barfi!",
+        "genre": "romance",
+        "rating": 8,
+        "description": "A mischievous deaf-mute man falls in love with two women, navigating life with charm and silent eloquence."
+    },
+    {
+        "id": "26",
+        "title": "Drishyam",
+        "genre": "thriller",
+        "rating": 9,
+        "description": "A cable TV operator goes to extreme lengths to protect his family after they become entangled in a crime, outsmarting the police at every turn."
+    },
+    {
+        "id": "27",
+        "title": "Vikram Vedha",
+        "genre": "thriller",
+        "rating": 8,
+        "description": "A tough cop sets out to hunt down a dreaded gangster, but moral dilemmas arise when the criminal begins to tell his story."
+    },
+    {
+        "id": "28",
+        "title": "Andhadhun",
+        "genre": "thriller",
+        "rating": 9,
+        "description": "A piano player pretending to be blind unwittingly becomes entangled in a murder case, leading to shocking twists and turns."
+    },
+    {
+        "id": "29",
+        "title": "Anniyan",
+        "genre": "thriller",
+        "rating": 8,
+        "description": "A lawyer with multiple personality disorder transforms into a vigilante who punishes corrupt citizens who escape the legal system."
+    },
+    {
+        "id": "30",
+        "title": "Kaithi",
+        "genre": "thriller",
+        "rating": 8,
+        "description": "An ex-convict sets out to meet his daughter for the first time but gets caught in a dangerous drug bust operation in a single night."
+    }
+]

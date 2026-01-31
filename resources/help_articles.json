@@ -1,0 +1,176 @@
+[
+  {
+    "id": "account-001",
+    "title": "How to reset your password",
+    "category": "account",
+    "content": "If you've forgotten your password, follow these steps to reset it:\n\n1. Go to the login page and click 'Forgot Password'\n2. Enter the email address associated with your account\n3. Check your email for a password reset link (check spam folder if not found)\n4. Click the link and create a new password\n5. Your new password must be at least 8 characters with one number\n\nIf you don't receive the email within 10 minutes, try again or contact support."
+  },
+  {
+    "id": "account-002",
+    "title": "How to change your subscription plan",
+    "category": "account",
+    "content": "To upgrade or downgrade your subscription plan:\n\n1. Log into your account and go to 'Account Settings'\n2. Click on 'Subscription & Billing'\n3. Select 'Change Plan'\n4. Choose your new plan (Basic, Standard, or Premium)\n5. Confirm your selection\n\nPlan changes take effect at the start of your next billing cycle. If upgrading, you may be charged a prorated amount immediately. Downgrade changes apply at renewal."
+  },
+  {
+    "id": "account-003",
+    "title": "How to update payment method",
+    "category": "account",
+    "content": "To update your credit card or payment method:\n\n1. Go to 'Account Settings' > 'Subscription & Billing'\n2. Click 'Manage Payment Method'\n3. Select 'Add New Payment Method' or 'Edit'\n4. Enter your new card details\n5. Click 'Save'\n\nWe accept Visa, Mastercard, American Express, and PayPal. Your new payment method will be used for the next billing cycle."
+  },
+  {
+    "id": "account-004",
+    "title": "How to cancel your subscription",
+    "category": "account",
+    "content": "To cancel your StreamFlix subscription:\n\n1. Go to 'Account Settings' > 'Subscription & Billing'\n2. Click 'Cancel Subscription'\n3. Select a reason for cancellation (optional)\n4. Confirm cancellation\n\nYour access continues until the end of your current billing period. You won't be charged again, and you can resubscribe anytime. Your viewing history and preferences are saved for 12 months."
+  },
+  {
+    "id": "account-005",
+    "title": "How to create and manage profiles",
+    "category": "account",
+    "content": "StreamFlix allows up to 5 profiles per account:\n\n1. From the home screen, click your profile icon\n2. Select 'Manage Profiles'\n3. Click 'Add Profile' to create a new one\n4. Enter a name and choose an avatar\n5. Toggle 'Kids Profile' for child-appropriate content only\n\nEach profile has its own watchlist, viewing history, and personalized recommendations. To delete a profile, click the pencil icon and select 'Delete Profile'."
+  },
+  {
+    "id": "account-006",
+    "title": "Two-factor authentication setup",
+    "category": "account",
+    "content": "Protect your account with two-factor authentication (2FA):\n\n1. Go to 'Account Settings' > 'Security'\n2. Click 'Enable Two-Factor Authentication'\n3. Choose SMS or Authenticator App\n4. Follow the setup instructions\n5. Save your backup codes in a safe place\n\nOnce enabled, you'll need to enter a code when logging in from a new device. This prevents unauthorized access even if someone knows your password."
+  },
+  {
+    "id": "playback-001",
+    "title": "Video playback is blurry or low quality",
+    "category": "playback",
+    "content": "If your video looks blurry or pixelated, try these solutions:\n\n1. Check your internet speed - we recommend at least 5 Mbps for HD, 25 Mbps for 4K\n2. Go to Settings > Playback and set quality to 'Auto' or 'High'\n3. Close other apps or devices using bandwidth\n4. Try a wired ethernet connection instead of WiFi\n5. Restart your router and device\n\nVideo quality may start low and improve as buffering progresses. If issues persist, your plan may limit maximum quality (Basic = 480p, Standard = 1080p, Premium = 4K)."
+  },
+  {
+    "id": "playback-002",
+    "title": "Video keeps buffering or freezing",
+    "category": "playback",
+    "content": "If your video frequently pauses to buffer:\n\n1. Test your internet speed at speedtest.net (need 5+ Mbps)\n2. Move closer to your WiFi router or use ethernet\n3. Close other streaming apps and downloads\n4. Lower the video quality in Settings > Playback\n5. Clear the app cache (Settings > App > Clear Cache)\n6. Restart your device and router\n\nPeak hours (7-10 PM) may cause slower speeds. If buffering continues, contact your internet provider about speed issues."
+  },
+  {
+    "id": "playback-003",
+    "title": "Audio is out of sync with video",
+    "category": "playback",
+    "content": "If the audio doesn't match the video:\n\n1. Pause and resume playback\n2. Try seeking forward or backward 10 seconds\n3. Close and reopen the app\n4. Check if your TV has an 'Audio Delay' setting to adjust\n5. Disable any external audio systems temporarily\n6. Update the StreamFlix app to the latest version\n\nIf using a soundbar or external speakers, try connecting them directly to your TV rather than through the streaming device."
+  },
+  {
+    "id": "playback-004",
+    "title": "Subtitles or captions not working",
+    "category": "playback",
+    "content": "To enable or fix subtitles:\n\n1. During playback, click the speech bubble icon\n2. Select your preferred language\n3. If subtitles appear wrong, try 'English [CC]' vs 'English'\n4. Adjust subtitle appearance in Settings > Accessibility\n\nNot all content has subtitles in every language. Original language subtitles are usually available. If subtitles are delayed, try restarting playback or updating the app."
+  },
+  {
+    "id": "playback-005",
+    "title": "Error code: Unable to play title",
+    "category": "playback",
+    "content": "If you see an error message when trying to play content:\n\n1. Check if StreamFlix is experiencing outages at status.streamflix.com\n2. Sign out and sign back into your account\n3. Clear app cache and data\n4. Uninstall and reinstall the app\n5. Try playing different content to isolate the issue\n6. Restart your device\n\nCommon error codes:\n- NW-2-5: Network connectivity issue\n- UI-800-3: Data needs refresh - sign out/in\n- TVQ-ST-131: Internet connection too slow"
+  },
+  {
+    "id": "playback-006",
+    "title": "How to change audio language",
+    "category": "playback",
+    "content": "To switch the audio language during playback:\n\n1. Click the speech bubble icon in the player controls\n2. Under 'Audio', select your preferred language\n3. The change takes effect immediately\n\nAvailable languages vary by title. Many international shows offer original audio plus dubbed versions. For the best experience, we recommend original audio with subtitles. Your language preference is saved per profile."
+  },
+  {
+    "id": "content-001",
+    "title": "Why can't I find a specific movie or show",
+    "category": "content",
+    "content": "Content availability varies for several reasons:\n\n1. Licensing: We may not have streaming rights in your region\n2. Rotation: Titles come and go as contracts renew\n3. New releases: Recent theatrical releases take time to become available\n4. Removal: Check 'Leaving Soon' section for expiring titles\n\nTo request content, go to Help > Request Title. Check justwatch.com to see which streaming service has a specific title in your region."
+  },
+  {
+    "id": "content-002",
+    "title": "Content not available in your region",
+    "category": "content",
+    "content": "If you see 'This title is not available in your region':\n\n1. This is due to licensing restrictions - we can only show content we have rights to in your country\n2. The same title may be available in other regions\n3. Using a VPN may trigger this error even in valid regions\n4. Disable any VPN or proxy services and retry\n\nWe're constantly working to expand our library. Content availability changes, so a title unavailable today may become available later."
+  },
+  {
+    "id": "content-003",
+    "title": "How to download videos for offline viewing",
+    "category": "content",
+    "content": "To download content for offline viewing:\n\n1. Open the StreamFlix mobile app (iOS or Android)\n2. Find the movie or show you want\n3. Tap the download icon (arrow pointing down)\n4. Choose video quality (higher quality = more storage)\n5. Downloads appear in 'My Downloads'\n\nNot all titles are available for download due to licensing. Downloads expire after 48 hours once you start watching, or 7-30 days if unwatched. Premium plan allows downloads on up to 4 devices."
+  },
+  {
+    "id": "content-004",
+    "title": "Parental controls and content restrictions",
+    "category": "content",
+    "content": "To set up parental controls:\n\n1. Go to Account Settings > Profiles\n2. Select the profile to restrict\n3. Set 'Viewing Restrictions' by maturity rating (G, PG, PG-13, R, etc.)\n4. Create a profile PIN to prevent changes\n5. Enable 'Kids Profile' for child-only content\n\nYou can also block specific titles. Kids profiles automatically filter to appropriate content and have a simplified interface. Profile locks prevent children from switching to adult profiles."
+  },
+  {
+    "id": "content-005",
+    "title": "Why does content look different than expected",
+    "category": "content",
+    "content": "Content may appear differently than expected for these reasons:\n\n1. Aspect Ratio: Some films are shot in widescreen (black bars are intentional)\n2. HDR: If your TV doesn't support HDR, colors may look washed out\n3. Frame Rate: Some content is 24fps (cinematic) vs 60fps (smooth)\n4. Edits: Streaming versions may differ from theatrical releases\n5. Compression: Fast scenes may show artifacts on slower connections\n\nCheck Settings > Playback to ensure you're getting the best quality for your device."
+  },
+  {
+    "id": "content-006",
+    "title": "Continue watching and recently watched",
+    "category": "content",
+    "content": "Your 'Continue Watching' row shows:\n\n1. Movies you've partially watched\n2. TV shows with new episodes or unfinished episodes\n3. Content is sorted by most recently watched\n\nTo remove something from Continue Watching:\n- On the title, click the menu (three dots) and select 'Remove from Row'\n\nYour watch history syncs across all devices. Each profile has its own Continue Watching list. History is used to improve your recommendations."
+  },
+  {
+    "id": "device-001",
+    "title": "Supported devices and platforms",
+    "category": "device",
+    "content": "StreamFlix is available on:\n\n- Smart TVs: Samsung, LG, Sony, Vizio (2016 or newer)\n- Streaming devices: Roku, Amazon Fire TV, Apple TV, Chromecast\n- Game consoles: PlayStation 4/5, Xbox One/Series X\n- Mobile: iOS 13+ and Android 7+\n- Web browsers: Chrome, Firefox, Safari, Edge\n- Computers: Windows 10+, macOS 10.13+\n\nSimultaneous streams depend on your plan: Basic (1), Standard (2), Premium (4). Download the app from your device's app store."
+  },
+  {
+    "id": "device-002",
+    "title": "How to cast or mirror to your TV",
+    "category": "device",
+    "content": "To watch StreamFlix on your TV:\n\n1. Chromecast: Tap the cast icon in the app and select your Chromecast\n2. AirPlay: For Apple devices, use the AirPlay icon to mirror to Apple TV\n3. Smart TV: Download the StreamFlix app directly on your TV\n4. HDMI: Connect your laptop with an HDMI cable\n\nEnsure your phone/tablet and TV are on the same WiFi network. Screen mirroring may reduce quality compared to native apps. Some content may be restricted from casting due to licensing."
+  },
+  {
+    "id": "device-003",
+    "title": "How to sign out of all devices",
+    "category": "device",
+    "content": "If you need to sign out from all devices at once:\n\n1. Go to Account Settings > Security\n2. Click 'Sign Out of All Devices'\n3. Confirm your password\n4. All devices will be signed out immediately\n\nThis is useful if you've shared your password or suspect unauthorized access. After signing out all devices, change your password for security. You'll need to sign back in on each device you want to use."
+  },
+  {
+    "id": "device-004",
+    "title": "App crashes or won't open",
+    "category": "device",
+    "content": "If the StreamFlix app crashes or won't open:\n\n1. Force close the app and reopen it\n2. Restart your device\n3. Check for app updates in your app store\n4. Clear app cache (Settings > Apps > StreamFlix > Clear Cache)\n5. Uninstall and reinstall the app\n6. Ensure your device meets minimum requirements\n\nOn Smart TVs, try unplugging for 30 seconds. If issues persist, check if your device/OS version is still supported on our help site."
+  },
+  {
+    "id": "device-005",
+    "title": "Manage registered devices",
+    "category": "device",
+    "content": "To view and manage devices linked to your account:\n\n1. Go to Account Settings > Devices\n2. View all devices that have signed into your account\n3. Click 'Remove' to deauthorize a device\n4. Renamed devices for easy identification\n\nYour plan limits downloads to specific device counts (Basic: 1, Standard: 2, Premium: 4). Removing a device frees up a download slot. Streaming devices don't count toward download limits."
+  },
+  {
+    "id": "device-006",
+    "title": "App not available for my device",
+    "category": "device",
+    "content": "If the StreamFlix app isn't available for your device:\n\n1. Check if your device is still supported (minimum requirements on our website)\n2. Older devices may no longer receive app updates\n3. Try watching via web browser at streamflix.com\n4. Use casting from a phone to an older TV\n5. Consider a streaming device like Roku or Fire Stick ($30-50)\n\nWe regularly update our supported device list. Some older smart TVs lose support when manufacturers stop providing updates."
+  },
+  {
+    "id": "billing-001",
+    "title": "Understanding your bill",
+    "category": "billing",
+    "content": "Your StreamFlix bill includes:\n\n1. Monthly subscription fee (Basic $9.99, Standard $15.99, Premium $22.99)\n2. Any add-ons (Extra Member slots: $7.99/month each)\n3. Taxes (vary by location)\n\nBilling occurs monthly on your signup date. View billing history in Account > Subscription & Billing. Charges appear as 'STREAMFLIX' on your statement. Annual plans offer 2 months free when prepaid."
+  },
+  {
+    "id": "billing-002",
+    "title": "Unexpected charge on my account",
+    "category": "billing",
+    "content": "If you see an unexpected charge:\n\n1. Check if a free trial ended and converted to paid\n2. Review Account > Billing History for details\n3. Verify no one else has access to your account\n4. Check for annual subscription renewals\n5. Look for add-on charges (extra members, plan upgrades)\n\nIf still unexplained, contact support within 60 days for a review. We can refund unauthorized charges if fraud is confirmed. Enable notifications for billing alerts."
+  },
+  {
+    "id": "billing-003",
+    "title": "Payment failed or declined",
+    "category": "billing",
+    "content": "If your payment was declined:\n\n1. Verify your card hasn't expired\n2. Check you have sufficient funds/credit\n3. Ensure billing address matches your card\n4. Contact your bank - they may have blocked the charge\n5. Try a different payment method\n\nAfter a failed payment, you have 7 days to update your method before service interruption. We'll retry the charge automatically. Prepaid cards may not work for recurring subscriptions."
+  },
+  {
+    "id": "tech-001",
+    "title": "Internet speed requirements",
+    "category": "technical",
+    "content": "Recommended internet speeds for streaming:\n\n- SD (480p): 3 Mbps\n- HD (720p): 5 Mbps\n- Full HD (1080p): 10 Mbps\n- 4K Ultra HD: 25 Mbps\n- 4K with HDR: 40 Mbps\n\nTest your speed at fast.com. For multiple simultaneous streams, multiply by the number of devices. WiFi can be slower than wired ethernet. Consider upgrading your internet plan if you frequently experience buffering."
+  },
+  {
+    "id": "tech-002",
+    "title": "How to contact customer support",
+    "category": "technical",
+    "content": "Reach StreamFlix support through:\n\n1. Live Chat: Click the chat bubble on our website (24/7)\n2. Phone: 1-800-STREAM-1 (8 AM - 12 AM EST)\n3. Email: support@streamflix.com (response within 24 hours)\n4. Twitter: @StreamFlixHelp\n5. Help Center: help.streamflix.com for self-service\n\nFor fastest resolution, have your account email and device information ready. Premium members get priority support with shorter wait times."
+  }
+]

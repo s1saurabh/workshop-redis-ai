@@ -1,0 +1,37 @@
+services:
+  # RIOT - Redis Input/Output Tools (one-time CLI tool)
+  # Pulled with: docker-compose --profile tools pull
+  # Run with: docker-compose --profile tools run --rm riot <command>
+  riot:
+    image: riotx/riot:latest
+    profiles: ["tools"]  # Won't start with 'docker-compose up'
+    volumes:
+      - ./resources:/data
+
+  # Backend FastAPI service
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8000:8000"
+    environment:
+      - REDIS_URL=${REDIS_URL}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - ./resources:/app/resources
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Frontend React service
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
