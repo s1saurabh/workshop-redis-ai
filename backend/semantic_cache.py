@@ -170,14 +170,7 @@ class LLMSemanticCache:
             #
             # - prompt: The user'0.
             # s query (will be embedded)
-            # - responcccccbkvjkglvblrivbgigbhitrjvhfidlvjhhhhnckr
-            # cccccbkvjkglhjvfrhtdctrcfcikvigbfchrivrgevij
-            # cccccbkvjkglciubihddichnriklccldnfltlntckbbg
-            # cccccbkvjkglgulefhbjkduujhkkunvigvbhrblddlnd
-            # cccccbkvjkgldkdhkrdgbjjdtvjdkuhncrcgvfjvjene
-            # cccccbkvjkglvbvnfjcelhlfleiejueitkkrlrlbvnib
-            # cccccbkvjkglguhnlrrncelelbebvbdviinnbilibkun
-            # se: The LLM's response to cache
+            # - response: The LLM's response to cache
             self.cache.store(
             prompt=query,
             response=response
