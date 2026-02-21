@@ -104,7 +104,11 @@ class LLMSemanticCache:
         # - distance_threshold: Maximum distance for a cache hit (0-1, lower = more similar)
         # - ttl: Time-to-live for cached entries in seconds
         self.cache = SemanticCache(
-        
+        name = self.name,
+        redis_client=self.client,
+        vectorizer=self.vectorizer,
+        distance_threshold=self.distance_threshold,
+        ttl=self.ttl
         )
         
         logger.info("LLMSemanticCache initialized successfully")
@@ -164,10 +168,12 @@ class LLMSemanticCache:
             # TODO
             # Challenge: Store the query-response pair in the semantic cache
             #
-            # - prompt: The user's query (will be embedded)
+            # - prompt: The user'0.
+            # s query (will be embedded)
             # - response: The LLM's response to cache
             self.cache.store(
-        
+            prompt=query,
+            response=response
             )
             logger.info(f"Cached response for query: '{query[:50]}...'")
             return True

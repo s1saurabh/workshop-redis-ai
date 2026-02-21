@@ -30,29 +30,29 @@ SEMANTIC_CACHE_DISTANCE_THRESHOLD = 0.5  # Lower = stricter matching (0.2 = 80% 
 # Index Schema for Redis Vector Search
 INDEX_SCHEMA = {
     # TODO
-    #-------------------------------------
+    # -------------------------------------
     # Challenge 1: Index Schema
     # Uncomment the following code and fill in the data types of each field and algorithm of the vector field
     # -------------------------------------
-    # "index": {
-    #     "name": INDEX_NAME,
-    #     "prefix": "movie:",
-    # },
-    # "fields": [
-    #     {"name": "title", "type": ""},
-    #     {"name": "genre", "type": ""},
-    #     {"name": "rating", "type": ""},
-    #     {"name": "description", "type": ""},
-    #     {
-    #         "name": "vector",
-    #         "type": "vector",
-    #         "attrs": {
-    #             "algorithm": "",
-    #             "dims": 384,
-    #             "distance_metric": "cosine",
-    #             "datatype": "float32",
-    #         },
-    #     },
-    # ],
+    "index": {
+        "name": INDEX_NAME,
+        "prefix": "movie:",
+    },
+    "fields": [
+        {"name": "title", "type": "text"},
+        {"name": "genre", "type": "tag"},
+        {"name": "rating", "type": "numeric"},
+        {"name": "description", "type": "text"},
+        {
+            "name": "vector",
+            "type": "vector",
+            "attrs": {
+                "algorithm": "flat",
+                "dims": 384,
+                "distance_metric": "cosine",
+                "datatype": "float32",
+            },
+        },
+    ],
 }
 

@@ -113,7 +113,10 @@ class MovieSearchEngine:
         # - return_fields: List of fields to include in results (e.g., ["title", "genre", "rating", "description"])
         # - return_score: If True, includes similarity score in results
         vec_query = VectorQuery(
-          
+          vector = embedded_query,
+          vector_field_name = "vector",
+          num_results = DEFAULT_NUM_RESULTS,
+          return_fields = ["title","genre","rating","description"]
         )
         
         results = self.index.query(vec_query)
@@ -181,6 +184,10 @@ class MovieSearchEngine:
         # - num_results: Number of results to return
         # - return_fields: List of fields to include in results (e.g., ["title", "genre", "rating", "description"])
         text_query = TextQuery(
+            text = query,
+            text_field_name = "description",
+            num_results = DEFAULT_NUM_RESULTS,
+            return_fields = ["title","genre","rating","description"]
         )
         
         results = self.index.query(text_query)
@@ -206,14 +213,14 @@ class MovieSearchEngine:
         # Uncomment the following code and watch it in action!
         
         hybrid_query = AggregateHybridQuery(
-            # text=query,
-            # text_field_name="description",
-            # text_scorer="BM25",
-            # vector=embedded_query,
-            # vector_field_name="vector",
-            # alpha=alpha,
-            # num_results=num_results,
-            # return_fields=["title", "genre", "rating", "description"],
+            text=query,
+            text_field_name="description",
+            text_scorer="BM25",
+            vector=embedded_query,
+            vector_field_name="vector",
+            alpha=alpha,
+            num_results=num_results,
+            return_fields=["title", "genre", "rating", "description"],
         )
         
         results = self.index.query(hybrid_query)
