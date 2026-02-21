@@ -156,8 +156,8 @@ git clone <repo-url>
 cd movie-recommender-workshop-starter
 
 # Create .env file
-echo "REDIS_URL=redis://default:YOUR_PASSWORD@YOUR_ENDPOINT:PORT" > .env
-echo "OPENAI_API_KEY=your_key_here" >> .env
+echo "REDIS_URL=redis://default:xxxxxxxxx:18804" > .env
+echo "OPENAI_API_KEY=xxxx" >> .env
 ```
 
 ### 3. Run Locally (Recommended)
